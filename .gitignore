@@ -1,3 +1,5 @@
 geo187/
 *.DS_Store
 .ipynb_checkpoints/
+refs/
+.gitignore
