@@ -1,2 +1,1 @@
-# spats
-spatstat
+# notebooks for geog187
