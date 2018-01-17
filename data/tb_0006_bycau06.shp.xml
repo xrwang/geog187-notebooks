@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20130926</CreaDate><CreaTime>13473900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130926" Time="134739">CalculateField tb_0006_bycau06 TB_RATE "[TB_CASES] / [TOTAL] * 100000" VB #</Process></lineage></DataProperties></Esri></metadata>
