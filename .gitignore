@@ -3,3 +3,5 @@ geo187/
 .ipynb_checkpoints/
 refs/
 .gitignore
+
+.Rhistory
