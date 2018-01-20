@@ -1,7 +1,6 @@
-geo187/
+oldlabs/
 *.DS_Store
 .ipynb_checkpoints/
 refs/
 .gitignore
-
 .Rhistory
