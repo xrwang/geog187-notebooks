@@ -14,3 +14,7 @@ lab-1/.~lock.geog187-lab1-instructions-2018.odt#
 lab-1/data/AucklandCity.zip
 
 lab-1/data/AucklandTB.zip
+
+*.tex
+
+*.png
